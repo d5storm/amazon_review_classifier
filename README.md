@@ -1,9 +1,5 @@
 # Amazon Review Classifier
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 Amazon Review Classifier é uma API que acessa um modelo de classificação de categoria de produtos
 de acordo com seu nome.
 
