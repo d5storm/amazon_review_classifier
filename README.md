@@ -24,7 +24,7 @@ Para receber a previsão de classe de uma lista de títulos (já tokenizados) ba
 ```python
 data = json.dumps(
         {
-            "instances": ["harry potter cracudão"], 
+            "instances": ["harry potter"], 
             "configuration": {
                 "k": 3
             }
